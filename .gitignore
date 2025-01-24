@@ -182,3 +182,4 @@ tts/
 # Ignore hidden .trunk directory
 .trunk/
 .DS_Store
+.vscode/
